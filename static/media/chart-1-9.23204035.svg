@@ -11,7 +11,7 @@
     <line x1="28.25" y1="164.35" x2="526.78" y2="164.35" fill="none" stroke="#fff" stroke-miterlimit="10"/>
     <line x1="28.25" y1="181.67" x2="526.78" y2="181.67" fill="none" stroke="#fff" stroke-miterlimit="10"/>
     <line x1="28.25" y1="198.99" x2="526.78" y2="198.99" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
-    <text transform="translate(4.33 30.06)" font-size="10.95" fill="#002866" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.02em">15<tspan x="0" y="17.12">10</tspan><tspan x="6.73" y="34.23">5</tspan><tspan x="6.73" y="51.35">0</tspan><tspan x="2.4" y="68.46">-5</tspan><tspan x="-4.33" y="85.58">-10</tspan><tspan x="-4.33" y="102.7">-15</tspan><tspan x="-4.33" y="119.81">-20</tspan><tspan x="-4.33" y="136.93">-25</tspan><tspan x="-4.33" y="154.04">-30</tspan><tspan x="-4.33" y="171.16">-35</tspan></text>
+    <text transform="translate(4.33 30.06)" font-size="10.95" fill="#002866" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.02em">15<tspan x="0" y="17.12">10</tspan><tspan x="6.73" y="34.23">5</tspan><tspan x="6.73" y="51.35">0</tspan><tspan x="2.4" y="68.46">-5</tspan><tspan x="-4.33" y="85.58">-10</tspan><tspan x="-4.33" y="102.7">-15</tspan><tspan x="-4.33" y="119.81">-20</tspan><tspan x="-4.33" y="136.93">-25</tspan><tspan x="-4.33" y="154.04">-30</tspan><tspan x="-4.33" y="171.16">-35</tspan></text>
     <g>
       <rect x="54.65" y="77.76" width="24.09" height="76.72" fill="#002866"/>
       <rect x="85.19" y="34.56" width="23.81" height="43.2" fill="#0074c1"/>
@@ -30,18 +30,18 @@
     </g>
     <g>
       <rect x="190.94" y="257.55" width="11.24" height="11.24" fill="#002866"/>
-      <text transform="translate(211.9 266.17)" font-size="9.2" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.02em">MSCI世界指數</text>
+      <text transform="translate(211.9 266.17)" font-size="9.2" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.02em">MSCI世界指數</text>
       <rect x="282.73" y="257.55" width="11.24" height="11.24" fill="#0074c1"/>
-      <text transform="translate(303.69 266.17)" font-size="9.2" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.02em">日圓/新加坡幣</text>
+      <text transform="translate(303.69 266.17)" font-size="9.2" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.02em">日圓/新加坡幣</text>
     </g>
-    <text transform="translate(63.35 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">歐洲主權<tspan x="0" y="14.38">債務危機</tspan><tspan x="-9.13" y="28.75">2011年4-9月</tspan></text>
-    <text transform="translate(178.4 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">中國A股賣壓<tspan x="-1.59" y="14.38">2015年5月－</tspan><tspan x="3.02" y="28.75">2016年2月</tspan></text>
-    <text transform="translate(332.39 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">貿易戰<tspan x="-1.83" y="14.38">2018年</tspan><tspan x="-3.68" y="28.75">7－12月</tspan></text>
-    <text transform="translate(440.55 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">新冠肺炎疫情<tspan x="12.01" y="14.38">2020年</tspan><tspan x="12.92" y="28.75">2－3月</tspan></text>
+    <text transform="translate(63.35 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">歐洲主權<tspan x="0" y="14.38">債務危機</tspan><tspan x="-9.13" y="28.75">2011年4-9月</tspan></text>
+    <text transform="translate(178.4 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">中國A股賣壓<tspan x="-1.59" y="14.38">2015年5月－</tspan><tspan x="3.02" y="28.75">2016年2月</tspan></text>
+    <text transform="translate(332.39 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">貿易戰<tspan x="-1.83" y="14.38">2018年</tspan><tspan x="-3.68" y="28.75">7－12月</tspan></text>
+    <text transform="translate(440.55 218.07)" font-size="9" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">新冠肺炎疫情<tspan x="12.01" y="14.38">2020年</tspan><tspan x="12.92" y="28.75">2－3月</tspan></text>
     <line x1="81.69" y1="198.99" x2="81.69" y2="205.95" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="204.35" y1="198.99" x2="204.35" y2="205.95" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="346.12" y1="198.99" x2="346.12" y2="205.95" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="468.11" y1="198.99" x2="468.11" y2="205.95" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
   </g>
-  <text transform="translate(4.16 13.2)" font-size="10.95" fill="#002866" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">(%)</text>
+  <text transform="translate(4.16 13.2)" font-size="10.95" fill="#002866" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">(%)</text>
 </svg>

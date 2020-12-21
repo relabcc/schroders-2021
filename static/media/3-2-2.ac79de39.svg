@@ -20,26 +20,26 @@
     <line x1="429.96" y1="213.17" x2="429.96" y2="218.44" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="487.09" y1="213.17" x2="487.09" y2="218.44" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
     <line x1="506.12" y1="213.17" x2="506.12" y2="218.44" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
-    <text font-size="12.46" fill="#002962" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em"><tspan x="11.73" y="45.25">5</tspan><tspan x="11.73" y="79.52">4</tspan><tspan x="11.73" y="113.8">3</tspan><tspan x="11.73" y="148.08">2</tspan><tspan x="11.73" y="182.36">1</tspan><tspan x="11.73" y="216.64">0</tspan></text>
-    <text transform="translate(27.78 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">1993</text>
-    <text transform="translate(104.15 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">1995</text>
-    <text transform="translate(180.52 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">2000</text>
-    <text transform="translate(256.9 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">2005</text>
-    <text transform="translate(333.27 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">2010</text>
-    <text transform="translate(409.65 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">2015</text>
-    <text transform="translate(485.17 232.82)" font-size="9.35" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.02em">2017</text>
+    <text font-size="12.46" fill="#002962" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em"><tspan x="11.73" y="45.25">5</tspan><tspan x="11.73" y="79.52">4</tspan><tspan x="11.73" y="113.8">3</tspan><tspan x="11.73" y="148.08">2</tspan><tspan x="11.73" y="182.36">1</tspan><tspan x="11.73" y="216.64">0</tspan></text>
+    <text transform="translate(27.78 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">1993</text>
+    <text transform="translate(104.15 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">1995</text>
+    <text transform="translate(180.52 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">2000</text>
+    <text transform="translate(256.9 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">2005</text>
+    <text transform="translate(333.27 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">2010</text>
+    <text transform="translate(409.65 232.82)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">2015</text>
+    <text transform="translate(485.17 232.82)" font-size="9.35" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.02em">2017</text>
     <g>
       <g>
-        <text transform="translate(217.13 277.05)" font-size="7.59" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">全球債市違約率</text>
+        <text transform="translate(217.13 277.05)" font-size="7.59" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">全球債市違約率</text>
         <rect x="188.21" y="272.94" width="23.85" height="3.35" fill="#abd867"/>
       </g>
       <g>
-        <text transform="translate(311.9 277.05)" font-size="7.59" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.03em">亞洲債市違約率</text>
+        <text transform="translate(311.9 277.05)" font-size="7.59" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.03em">亞洲債市違約率</text>
         <rect x="282.98" y="272.94" width="23.85" height="3.35" fill="#6bcdd3"/>
       </g>
     </g>
     <polyline points="38.01 193.23 56.49 193.23 77.13 177.09 96.05 197.3 116.25 193.23 153.66 140.55 173 127.8 190.63 85.09 212.06 90.68 229.32 149.58 247.81 186.98 269.73 193.23 306.83 200.74 325.62 150.87 343.68 71.33 363.02 171.38 382.37 186.98 402.15 174.51 420.63 177.09 439.55 189.99 477.81 142.7 497.59 174.08 516.5 180.09" fill="none" stroke="#abd867" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
     <polyline points="32.85 213.17 94.76 213.17 114.96 187.41 133.88 50.7 152.37 127.8 171.71 169.35 191.06 145.65 209.97 213.36 228.89 193.23 266.72 208.04 306.83 208.91 344.11 141.84 363.45 193.23 381.94 213.17 400 200.74 422.78 200.74 439.55 207.62 458.89 193.23 477.38 204.45 499.31 204.45 514.78 210.19" fill="none" stroke="#6bcdd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <text transform="translate(4.38 23.01)" font-size="12.46" fill="#002962" font-family="GenSekiGothicTW-B, GenSekiGothic TW" letter-spacing="0.02em">(%)</text>
+    <text transform="translate(4.38 23.01)" font-size="12.46" fill="#002962" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Noto Sans TC" letter-spacing="0.02em">(%)</text>
   </g>
 </svg>
