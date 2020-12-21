@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.38 57.45">
+  <g>
+    <rect x="0.74" y="35.24" width="9.5" height="15.59" fill="#6bcdd3"/>
+    <rect x="12.24" y="35.24" width="9.5" height="15.59" fill="#0074bc"/>
+    <rect x="23.95" y="32.09" width="9.5" height="18.74" fill="#6bcdd3"/>
+    <rect x="35.15" y="29.36" width="9.5" height="21.47" fill="#0074bc"/>
+    <circle cx="16.99" cy="28.4" r="2.25" fill="#0074bc"/>
+    <circle cx="28.7" cy="26.15" r="2.25" fill="#0074bc"/>
+    <circle cx="39.9" cy="23.08" r="2.25" fill="#0074bc"/>
+    <polyline points="4.87 28.4 16.99 28.4 28.7 26.15 39.9 23.08" fill="none" stroke="#0074bc" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="21.74" cy="26.96" r="20.34" fill="#ffde3b"/>
+    <rect x="0.74" y="35.24" width="9.5" height="15.59" fill="#6bcdd3"/>
+    <rect x="12.24" y="35.24" width="9.5" height="15.59" fill="#0074bc"/>
+    <rect x="23.95" y="32.09" width="9.5" height="18.74" fill="#6bcdd3"/>
+    <rect x="35.15" y="29.36" width="9.5" height="21.47" fill="#0074bc"/>
+    <circle cx="16.99" cy="28.4" r="2.25" fill="#0074bc"/>
+    <circle cx="28.7" cy="26.15" r="2.25" fill="#0074bc"/>
+    <circle cx="39.9" cy="23.08" r="2.25" fill="#0074bc"/>
+    <polyline points="4.87 28.4 16.99 28.4 28.7 26.15 39.9 23.08" fill="none" stroke="#0074bc" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

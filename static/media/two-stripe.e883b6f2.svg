@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 482 166">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 47" x1="568.06" y1="78" x2="118.16" y2="83.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffde3b"/>
+      <stop offset="0.3" stop-color="#6bcdd3"/>
+      <stop offset="0.65" stop-color="#004273"/>
+      <stop offset="1" stop-color="#002962" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b" x1="530.12" y1="133.35" x2="268.53" y2="136.66" xlink:href="#a"/>
+  </defs>
+  <rect x="0.64" y="67.78" width="481.36" height="28.69" opacity="0.36" fill="url(#a)"/>
+  <rect x="200.25" y="124.28" width="279.79" height="22.95" opacity="0.36" fill="url(#b)"/>
+</svg>
