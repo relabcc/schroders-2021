@@ -10,10 +10,6 @@ object-assign
 @license MIT
 */
 
-/*! npm.im/intervalometer */
-
-/*! npm.im/video-canvas */
-
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
