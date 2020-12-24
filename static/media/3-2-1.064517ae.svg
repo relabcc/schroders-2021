@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 543.67 243.9">
+  <line x1="31.21" y1="177.42" x2="517.77" y2="177.42" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+  <g>
+    <g>
+      <text transform="translate(164.41 229.83)" font-size="7.13" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">受疫情衝擊產業</text>
+      <rect x="137.24" y="225.96" width="22.41" height="3.15" fill="#6bcdd3"/>
+    </g>
+    <g>
+      <text transform="translate(259.84 229.83)" font-size="7.13" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">無受疫情衝擊產業</text>
+      <rect x="232.67" y="225.96" width="22.41" height="3.15" fill="#abd867"/>
+    </g>
+    <g>
+      <text transform="translate(362.49 229.83)" font-size="7.13" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">利差差距</text>
+      <rect x="335.32" y="225.96" width="22.41" height="3.15" fill="#d3d3d4"/>
+    </g>
+  </g>
+  <g>
+    <line x1="31.24" y1="176.42" x2="31.24" y2="183.69" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+    <text transform="translate(20.28 199.24)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2019<tspan x="-5.32" y="12.02">27.DEC</tspan></text>
+  </g>
+  <g>
+    <line x1="193.4" y1="177.26" x2="193.4" y2="183.69" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+    <text transform="translate(182.46 200.2)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2020<tspan x="-6.18" y="12.02">27.MAR</tspan></text>
+  </g>
+  <g>
+    <line x1="355.58" y1="177.26" x2="355.58" y2="183.69" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+    <text transform="translate(344.64 199.64)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2020<tspan x="-5.68" y="12.02">27.JUN</tspan></text>
+  </g>
+  <g>
+    <line x1="517.77" y1="176.47" x2="517.77" y2="183.69" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+    <text transform="translate(506.83 198.83)" font-size="9" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2020<tspan x="-4.96" y="12.02">27.SEP</tspan></text>
+  </g>
+  <g>
+    <path d="M39,168.5H62l10.35-4.05s9.2,3.6,10.93,4.05,9.2-1.8,11.5,0,12.65,4.95,12.65,4.95h23c1.73,0,10.93,1.35,14.38,0s15.27-5.85,15.27-5.85L174.43,151s31.88-9.44,33.61-9,15,2.69,15,2.69l17.83-2.71,18.4-4.48,19.53,3.15,18.14,7.87s3.73,6.22,6,7.27,27.61,0,27.61,0,13.22,2.4,16.1,2.4,26.45.45,26.45.45l23.58-.45s26.52,1.8,26.49,1.35,11.46-2.25,13.19-1.8,13.8,3.15,15.53,3.15,23,.9,23,.9L495,159.5l18.4.9V176H39Z" fill="#d3d3d4"/>
+    <line x1="31.51" y1="29.05" x2="513.54" y2="29.05" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="31.51" y1="50.61" x2="513.54" y2="50.61" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="31.51" y1="72.23" x2="513.54" y2="72.23" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="31.51" y1="94.23" x2="513.54" y2="94.23" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="31.51" y1="115.71" x2="513.54" y2="115.71" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="513.54" y1="137.46" x2="31.51" y2="137.46" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="31.51" y1="158.82" x2="513.54" y2="158.82" fill="none" stroke="#9e9f9f" stroke-miterlimit="10" stroke-width="0.5"/>
+    <text transform="translate(1.47 31.18)" font-size="10.12" fill="#002962" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">300<tspan x="0" y="22">250</tspan><tspan x="0" y="44">200</tspan><tspan x="0" y="66">150</tspan><tspan x="0" y="88">100</tspan><tspan x="3.11" y="110">50</tspan><tspan letter-spacing="0.03em"><tspan x="4.13" y="132">≈</tspan></tspan><tspan x="6.21" y="154">0</tspan></text>
+    <polyline points="38.97 137.46 60.82 135.71 83.82 137.46 97.05 136.58 128.1 137.46 143.05 131.28 151.1 127.91 166.87 107.67 174.43 88.32 188.81 81.58 198.84 79.78 220.11 94.22 243.69 104.52 266.12 98.53 278.77 100.92 289.7 106.77 301.2 118.47 311.27 115.72 324.77 115.72 337.55 113.52 360.43 115.72 382.86 121.61 405.29 123.41 417.36 125.21 454.74 126.56 465.09 126.11 474.87 126.56 489.82 124.31 505.92 125.66 518.53 126.56" fill="none" stroke="#abd867" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M39,128.36H56.22l15.52-4.5,12.08,4.5h11.5l11.5,2.93H128.1l23.58-10.13,8.37-15.74,6.82-20.25,7.56-23.84,25-13.5,11.5,2.78,9.2,11.17,12.65,5.4s8.63.45,10.36.45,23.57-8.55,23.57-8.55l15.82,7.65,10.78,8.1,9.06,23.71,15-4.31,8.54,4.31,11.62-4.31S351.23,96,353,96.42s10.35,2.12,10.35,2.12l21.28,5.08s10.35-1.8,12.08-.9,21.28,5.9,21.28,5.9l25.06-3.2s12.32,1.9,15.19,3.2,17.25,2.2,17.25,2.2l10.72-2.2H499l14.38,3.1" fill="none" stroke="#6bcdd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

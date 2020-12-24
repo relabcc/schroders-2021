@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 476.26 272.84">
+  <g>
+    <line x1="31.79" y1="60.86" x2="476.26" y2="60.86" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="31.79" y1="25.54" x2="476.26" y2="25.54" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="31.79" y1="97.31" x2="476.26" y2="97.31" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="31.79" y1="133.09" x2="476.26" y2="133.09" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="31.79" y1="169" x2="476.26" y2="169" fill="none" stroke="#fff" stroke-miterlimit="10"/>
+    <line x1="31.79" y1="208.26" x2="476.26" y2="208.26" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+    <g>
+      <line x1="31.79" y1="207.43" x2="31.79" y2="214.77" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+      <text transform="translate(22.68 228.95)" font-size="7.62" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2015</text>
+    </g>
+    <g>
+      <line x1="137.71" y1="208.09" x2="137.71" y2="214.77" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+      <text transform="translate(129.02 228.95)" font-size="7.62" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2016</text>
+    </g>
+    <g>
+      <line x1="244.34" y1="208.09" x2="244.34" y2="214.77" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+      <text transform="translate(235.36 228.95)" font-size="7.62" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2017</text>
+    </g>
+    <g>
+      <line x1="350.36" y1="208.09" x2="350.36" y2="214.77" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+      <text transform="translate(341.7 228.95)" font-size="7.62" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2018</text>
+    </g>
+    <g>
+      <line x1="457.43" y1="208.09" x2="457.43" y2="214.77" fill="none" stroke="#211815" stroke-miterlimit="10" stroke-width="2"/>
+      <text transform="translate(448.04 228.95)" font-size="7.62" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">2019</text>
+    </g>
+    <text transform="translate(0 28.77)" font-size="10.5" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">1000<tspan x="3.22" y="36.09">800</tspan><tspan x="3.22" y="72.17">600</tspan><tspan x="3.22" y="108.26">400</tspan><tspan x="3.22" y="144.35">200</tspan></text>
+    <g>
+      <g>
+        <text transform="translate(115.71 250.17)" font-size="7.55" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">美國高收益債</text>
+        <rect x="86.93" y="246.07" width="23.73" height="3.34" fill="#ff90bb"/>
+      </g>
+      <g>
+        <text transform="translate(205.06 250.17)" font-size="7.55" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">美國投資級債</text>
+        <rect x="176.28" y="246.07" width="23.73" height="3.34" fill="orange"/>
+      </g>
+      <g>
+        <text transform="translate(294.4 250.17)" font-size="7.55" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">歐洲高收益債</text>
+        <rect x="265.62" y="246.07" width="23.73" height="3.34" fill="#008c72"/>
+      </g>
+      <g>
+        <text transform="translate(383.74 250.17)" font-size="7.55" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.02em">歐洲投資級債</text>
+        <rect x="354.96" y="246.07" width="23.73" height="3.34" fill="#9dda53"/>
+      </g>
+    </g>
+    <polyline points="34.8 100.14 52.93 75.75 58.05 64.46 65.54 64.46 78.15 90.98 86.43 95.95 95.1 92.31 109.73 113.84 119.93 116.16 124.53 116.16 132.15 120.14 137.27 128.09 154.22 140.01 162.49 137.03 167.22 140.01 183.42 137.7 190.48 142 197.92 137.7 206.24 143.33 213.08 143.33 229.89 140.35 236.19 147.97 250.38 140.68 259.05 145.31 273.38 140.68 279.15 145.65 287.2 144.32 295.7 147.97 310.68 128.09 316.99 109.2 323.69 125.4 331.18 135.71 337.88 133.09 346.15 137.7 354.82 121.79 361.52 133.09 368.22 134.71 376.04 127.76 383.2 131.07 391.69 129.41 397.39 133.09 404.09 140.35 413.55 133.09 421.43 113.18 428.13 49.24 443.1 88 450.99 89.33 457.29 112.19 465.17 115.83 473.45 108.87" fill="none" stroke="#ff90bb" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="34.8 122.79 43.08 127.76 49.38 114.51 64.75 101.92 72.64 121.46 79.33 129.75 89.19 127.43 93.47 125.4 109.73 142.33 116.78 138.69 124.53 144.65 131.75 138.03 138.45 147.97 153.03 154.64 162.1 150.95 174.71 160.22 183.42 160.22 190.87 165.85 197.92 165.85 208.21 169 213.08 172.15 220.03 165.19 226.24 163.54 235.41 165.52 249.2 156.58 258.26 158.59 264.57 147.97 273.38 144.32 278.36 149.62 287.2 147.97 295.7 147.97 310.68 128.09 317.38 123.12 331.96 142 340.24 142.33 346.55 147.97 354.03 135.05 360.73 144.65 369.01 144.65 376.04 147.97 391.69 143.99 399.75 147.97 406.85 156.25 414.73 150.62 422.61 137.03 429.31 77.73 435.62 97.31 444.29 112.19 465.96 130.08 471.87 125.4" fill="none" stroke="orange" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline points="34.8 172.15 48.99 172.15 56.48 165.52 65.94 165.52 72.24 172.15 78.94 174.8 93.47 174.8 107.71 177.78 117.56 177.78 124.53 177.78 131.36 177.78 140.03 181.43 146.34 181.43 153.03 183.74 167.22 183.74 175.5 183.74 190.48 185.73 197.92 183.74 213.08 187.72 220.43 187.72 235.01 189.71 251.56 184.74 258.66 185.73 271.66 183.41 280.73 185.4 287.2 185.07 294.52 186.06 303.98 183.08 316.99 177.62 325.26 180.1 337.88 182.09 345.76 184.41 356 179.11 368.62 182.42 377.68 177.62 399.36 182.75 406.06 185.4 419.85 179.77 428.13 151.28 436.4 164.86 449.8 174.47 460.84 178.78 471.87 178.44" fill="none" stroke="#008c72" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M34.8,187.06H51l6.7-3.65s4.33-1.32,6.3,0,9.07,6.3,9.07,6.3H98.25l7.16,3s7.67-.33,9.71,0,11.9,0,11.9,0,4.34-2.36,5.52-1.35,7.09,1.5,7.09,1.5h24.44l7.4,1.51h11.95s5.08,2,6.27,2h17.73l5.66,1.66H228.7l15,1.19,7.88-3.51h8.28l8.67-3h7.09l5.52.66,6.08-2,8.9,1.68,7.88-1.68,3.94-1.63,7.88-3.65,9.07,1.66,22.07,5.3,8.67-3.31s11.82,4.64,13,4.3,15-2.67,15-2.67l8.1,2,8.06-.66,9.07,1.32h5.12l6.7-2.67,7.09-20.85,7.89,9.28,11.42,2,10.25,5,5.91,1.65,10.25-.33" fill="none" stroke="#9dda53" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <text transform="translate(9.67 211.1)" font-size="10.5" fill="#112d57" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.03em">0</text>
+  </g>
+  <text transform="translate(-1.03 12)" font-size="8" fill="#172d54" font-family="GenSekiGothicTW-B, GenSekiGothic TW, Microsoft JhengHei, sans-serif, Microsoft JhengHei, sans-serif" letter-spacing="0.1em"><tspan xml:space="preserve"> (基點b</tspan><tspan x="29.99" y="0" letter-spacing="0.1em">b</tspan><tspan x="35.9" y="0" letter-spacing="0.1em">s)</tspan></text>
+</svg>
