@@ -1,10 +1,10 @@
 {
   "files": {
     "main.js": "/schroders-2021/static/js/main.6f0c836c.chunk.js",
-    "runtime-main.js": "/schroders-2021/static/js/runtime-main.50f48ff1.js",
+    "runtime-main.js": "/schroders-2021/static/js/runtime-main.e9cee764.js",
     "static/js/2.be887ed1.chunk.js": "/schroders-2021/static/js/2.be887ed1.chunk.js",
     "static/js/3.5545480e.chunk.js": "/schroders-2021/static/js/3.5545480e.chunk.js",
-    "static/js/4.b4b254bb.chunk.js": "/schroders-2021/static/js/4.b4b254bb.chunk.js",
+    "static/js/4.c75a939d.chunk.js": "/schroders-2021/static/js/4.c75a939d.chunk.js",
     "static/js/5.34d26036.chunk.js": "/schroders-2021/static/js/5.34d26036.chunk.js",
     "static/js/6.9fdcff2f.chunk.js": "/schroders-2021/static/js/6.9fdcff2f.chunk.js",
     "static/js/7.20a137c2.chunk.js": "/schroders-2021/static/js/7.20a137c2.chunk.js",
@@ -57,7 +57,7 @@
     "static/media/weatherbg.d3f60648.png": "/schroders-2021/static/media/weatherbg.d3f60648.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50f48ff1.js",
+    "static/js/runtime-main.e9cee764.js",
     "static/js/2.be887ed1.chunk.js",
     "static/js/main.6f0c836c.chunk.js"
   ]
